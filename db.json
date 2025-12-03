@@ -1,0 +1,341 @@
+{
+  "menu": [
+    {
+      "category": "Hot Coffee",
+      "items": [
+        {
+          "id": 1,
+          "title": "Hot Chocolate",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 5,
+          "image": "/home-menu/menu-3.jpg",
+          "rating": 4,
+          "off": 20,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tea",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 7,
+          "image": "/home-menu/menu-4.jpeg",
+          "rating": 3,
+          "off": 0,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Coffee With Milk",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 9,
+          "image": "/home-menu/menu-1.jpg",
+          "rating": 4,
+          "off": 10,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Cold Coffee",
+      "items": [
+        {
+          "id": 4,
+          "title": "Banana Milk",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 5,
+          "image": "/home-menu/menu-4.jpeg",
+          "rating": 5,
+          "off": 5,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Black Coffee",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 7,
+          "image": "/home-menu/menu-5.jpeg",
+          "rating": 5,
+          "off": 0,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Ice Cream",
+          "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+          "price": 9,
+          "image": "/home-menu/menu-3.jpg",
+          "rating": 2,
+          "off": 15,
+          "comments": [
+            {
+              "id": 1,
+              "name": "John Doe",
+              "profession": "Web Developer",
+              "img": "/home-comment/testimonial-1.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 2,
+              "name": "Jane Smith",
+              "profession": "UI/UX Designer",
+              "img": "/home-comment/testimonial-2.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 3,
+              "name": "Michael Brown",
+              "profession": "Photographer",
+              "img": "/home-comment/testimonial-3.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            },
+            {
+              "id": 4,
+              "name": "Emily Johnson",
+              "profession": "Marketing Expert",
+              "img": "/home-comment/testimonial-4.jpg",
+              "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Fastest Door Delivery",
+      "img": "/home-services/service-1.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTruck"
+    },
+    {
+      "id": 2,
+      "title": "Fastest Door Delivery",
+      "img": "/home-services/service-2.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faCoffee"
+    },
+    {
+      "id": 3,
+      "title": "Best Quality Coffee",
+      "img": "/home-services/service-3.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faAward"
+    },
+    {
+      "id": 4,
+      "title": "Online Table Booking",
+      "img": "/home-services/service-4.jpg",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTable"
+    }
+  ],
+  "newsLetters": [
+    {
+      "id": "f324",
+      "email": "mahdiamiri1208@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "profession": "Web Developer",
+      "img": "/home-comment/testimonial-1.jpg",
+      "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "profession": "UI/UX Designer",
+      "img": "/home-comment/testimonial-2.jpg",
+      "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "profession": "Photographer",
+      "img": "/home-comment/testimonial-3.jpg",
+      "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "profession": "Marketing Expert",
+      "img": "/home-comment/testimonial-4.jpg",
+      "text": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem."
+    }
+  ],
+  "book-table": [
+    {
+      "id": "c145",
+      "name": "jhnvbf",
+      "email": "jhybgfdukyjhgtrf@gmail.com",
+      "date": "jyhgtrfe",
+      "time": "yujgtref",
+      "person": "1"
+    },
+    {
+      "id": "8575",
+      "name": "mahdi",
+      "email": "amiriclash83@gmail.com",
+      "date": "1383/2/12",
+      "time": "16:00",
+      "person": "3"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "aa63",
+      "name": "mahdi",
+      "email": "mahdi@gmail.com",
+      "subject": "fghj",
+      "message": "dfgfdfgfg"
+    }
+  ]
+}
